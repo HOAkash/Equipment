@@ -18,17 +18,26 @@ A simple CRUD application to manage equipment using MERN stack.
 ## How to Run
 
 ### Backend
-```bash
-cd backend
-npm install
-npm start
+
+- cd backend
+- npm install
+- npm start
+
+## Frontend
+- cd frontend
+- npm install
+- npm run dev
+
+### Improvements
+- Authentication
+- Better UI
+- Deployment
+
+### Author
+Akash
 
 
-### Frontend
- ```
-cd frontend
-npm install
-npm start
+
 
 
 
